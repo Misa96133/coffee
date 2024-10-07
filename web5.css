@@ -91,7 +91,6 @@ nav li a:hover {
 
 .menu-content {
     display: flex;
-    /*↓コンテンツの中身の幅↓*/
     max-width: 1000px;
     padding: 90px 16px 150px 16px;
     margin: 0 auto;
